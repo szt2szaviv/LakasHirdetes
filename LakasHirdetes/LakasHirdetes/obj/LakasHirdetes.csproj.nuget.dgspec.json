@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\szt2szaviv\\Documents\\Lakashirdetes\\LakasHirdetes\\LakasHirdetes\\LakasHirdetes.csproj": {}
+    "C:\\Users\\szt2szaviv\\Documents\\Gy.Cs\\LakasHirdetes\\LakasHirdetes\\LakasHirdetes\\LakasHirdetes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\szt2szaviv\\Documents\\Lakashirdetes\\LakasHirdetes\\LakasHirdetes\\LakasHirdetes.csproj": {
+    "C:\\Users\\szt2szaviv\\Documents\\Gy.Cs\\LakasHirdetes\\LakasHirdetes\\LakasHirdetes\\LakasHirdetes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\szt2szaviv\\Documents\\Lakashirdetes\\LakasHirdetes\\LakasHirdetes\\LakasHirdetes.csproj",
+        "projectUniqueName": "C:\\Users\\szt2szaviv\\Documents\\Gy.Cs\\LakasHirdetes\\LakasHirdetes\\LakasHirdetes\\LakasHirdetes.csproj",
         "projectName": "LakasHirdetes",
-        "projectPath": "C:\\Users\\szt2szaviv\\Documents\\Lakashirdetes\\LakasHirdetes\\LakasHirdetes\\LakasHirdetes.csproj",
+        "projectPath": "C:\\Users\\szt2szaviv\\Documents\\Gy.Cs\\LakasHirdetes\\LakasHirdetes\\LakasHirdetes\\LakasHirdetes.csproj",
         "packagesPath": "C:\\Users\\szt2szaviv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\szt2szaviv\\Documents\\Lakashirdetes\\LakasHirdetes\\LakasHirdetes\\obj\\",
+        "outputPath": "C:\\Users\\szt2szaviv\\Documents\\Gy.Cs\\LakasHirdetes\\LakasHirdetes\\LakasHirdetes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,26 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

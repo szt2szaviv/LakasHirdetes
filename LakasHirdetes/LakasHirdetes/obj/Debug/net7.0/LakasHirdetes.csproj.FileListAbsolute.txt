@@ -1,0 +1,7 @@
+C:\Users\szt2szaviv\Documents\Gy.Cs\LakasHirdetes\LakasHirdetes\LakasHirdetes\obj\Debug\net7.0\LakasHirdetes.csproj.AssemblyReference.cache
+C:\Users\szt2szaviv\Documents\Gy.Cs\LakasHirdetes\LakasHirdetes\LakasHirdetes\obj\Debug\net7.0\LakasHirdetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szt2szaviv\Documents\Gy.Cs\LakasHirdetes\LakasHirdetes\LakasHirdetes\obj\Debug\net7.0\LakasHirdetes.AssemblyInfoInputs.cache
+C:\Users\szt2szaviv\Documents\Gy.Cs\LakasHirdetes\LakasHirdetes\LakasHirdetes\obj\Debug\net7.0\LakasHirdetes.AssemblyInfo.cs
+C:\Users\szt2szaviv\Documents\Gy.Cs\LakasHirdetes\LakasHirdetes\LakasHirdetes\obj\Debug\net7.0\LakasHirdetes.csproj.CoreCompileInputs.cache
+C:\Users\szt2szaviv\Documents\Gy.Cs\LakasHirdetes\LakasHirdetes\LakasHirdetes\obj\Debug\net7.0\LakasHirdetes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\szt2szaviv\Documents\Gy.Cs\LakasHirdetes\LakasHirdetes\LakasHirdetes\obj\Debug\net7.0\LakasHirdetes.MvcApplicationPartsAssemblyInfo.cache
